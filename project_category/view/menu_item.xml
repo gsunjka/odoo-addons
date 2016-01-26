@@ -12,7 +12,7 @@
 
         <menuitem name="Type"
             id="category"
-            parent="base.menu_definitions"
+            parent="project.menu_project_config"
             sequence="1"/>
 
         <menuitem name="Project Type"
